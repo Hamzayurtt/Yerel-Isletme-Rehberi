@@ -1,0 +1,14 @@
+
+ Yerel işletme rehberi için 
+ lütfen aşağıdaki adımları izleyiniz.
+
+ 1) Veritabanını (yerel-isletme-rehberi.sql) 
+    yedekten içe aktarınız.
+
+ 2) "yerel_isletme_proje" dosyasını xampp 
+     içerisindeki htdocs klasörüne kopyalayınız.
+
+ 3) firma_giris.php'yi index.php olarak baz alabilir
+    ve başlatabilirsiniz. 
+
+         200101003-200101004-200101006 - Gururla Sunar

@@ -1,0 +1,31 @@
+.popup {
+    display: none; /* Başlangıçta pop-up'ı gizle */
+    position: fixed; /* Sabit pozisyon */
+    z-index: 1; /* Pop-up'ın üstte görünmesi için z-index değeri tanımlayın */
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .popup-icerik {
+    background-color: white;
+    margin: 15% auto; /* Pop-up içeriğinin sayfanın üstünden %15 uzaklıkta ve ortalanması */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Pop-up içeriğinin genişliği */
+    height: auto; /* İçerik boyutuna göre yükseklik ayarlanacak */
+    border-radius: 20px;
+  }
+  
+  .kapat-buton {
+    background-color: #ffd013;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 10px;
+  }
