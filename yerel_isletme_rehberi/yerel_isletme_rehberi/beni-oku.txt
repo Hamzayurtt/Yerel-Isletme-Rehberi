@@ -11,4 +11,4 @@
  3) firma_giris.php'yi index.php olarak baz alabilir
     ve başlatabilirsiniz. 
 
-         200101003-200101004-200101006 - Gururla Sunar
+        
